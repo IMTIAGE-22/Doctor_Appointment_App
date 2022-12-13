@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".about_doctor"
+    android:padding="10dp"
+    android:background="@android:color/holo_green_light">
+
+    <ImageView
+        android:id="@+id/Boss"
+        android:layout_width="400dp"
+        android:layout_height="166dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/images" />
+
+    <ScrollView
+        android:id="@+id/Boss1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:id="@+id/Shetty_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:text="@string/Shetty1"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

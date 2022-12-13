@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="378dp"
+        android:layout_height="59dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="@string/Welcoming"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/motto"
+        android:layout_width="364dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/motto"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/Building"
+        android:layout_width="wrap_content"
+        android:layout_height="166dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/hospital_building" />
+    <TextView
+        android:id="@+id/Home_page_signin_text"
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:text="@string/signin_text"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+    <EditText
+        android:id="@+id/Login_Email"
+        android:hint="@string/E_Mail"
+        android:inputType="textEmailAddress"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="@drawable/edittext_background"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:id="@+id/Password"
+        android:hint="@string/Password"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:inputType="textPassword"
+        android:background="@drawable/edittext_background"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:id="@+id/Sign_IN_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/purple_700"
+        android:textColor="@color/white"
+        android:text="@string/signin_text"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@color/teal_700"
+        android:text="@string/Register"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Forgot_Password"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold|italic"
+        android:textSize="25sp"
+        android:text="@string/Forgot_password"
+        android:textColor="@color/black"
+        />
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:id="@+id/Login_Progressbar"/>
+
+
+
+</LinearLayout>

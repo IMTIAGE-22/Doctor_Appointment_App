@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Doctor\'s Home</string>
+    <string name="Welcoming">Welcome to Doctor\'s Home</string>
+    <string name="motto">Get quality health services</string>
+    <string name="signin_text">Sign in</string>
+    <string name="Contact_Number">Contact Number</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Fillup">Please fillup all informations</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="My_Profile">My Profile</string>
+    <string name="About_Doctor">About Doctor</string>
+    <string name="Appointment">Appointment</string>
+    <string name="Standings">Standings</string>
+    <string name="Visiting_hours">Visiting Hours</string>
+    <string name="Contact_us">Contact Us</string>
+    <string name="Location">Location</string>
+    <string name="Sign_out">Sign Out</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="E_Mail">E-mail</string>
+    <string name="Birthdate">Birthdate</string>
+    <string name="Gender">Gender</string>
+    <string name="Mobile_no">Mobile No.</string>
+    <string name="Telephone_no">Telephone NO.</string>
+    <string name="Patient_dashboard">Patient Dashboard</string>
+    <string name="Patient_Name">Patient Name</string>
+    <string name="Age">Current Age</string>
+    <string name="Visiting_date">Visiting Date</string>
+    <string name="Doctor_fee">Doctor\'s Fee: 1000 TK</string>
+    <string name="Working_days">Working Days</string>
+    <string name="SMT">Sunday + Monday + Tuesday</string>
+    <string name="t1">    4:00 PM to 10:00 PM</string>
+    <string name="t2">    6:00 PM to 10:00 PM</string>
+    <string name="WT">Wednesday + Thursday</string>
+    <string name="off_days">Off Days</string>
+    <string name="FAL">Friday + All Govt. holidays</string>
+    <string name="MN_1">[1]   017........</string>
+    <string name="MN_2">[2]   015........</string>
+    <string name="MN_3">[3]   014........</string>
+    <string name="TN_4">[4]   5487.......</string>
+    <string name="TN_5">[5]   4976.......</string>
+    <string name="Website_link">Website Link</string>
+    <string name="Facebook_page">Facebook Page</string>
+    <string name="Blank">              </string>
+    <string name="NID_NO">NID Number</string>
+    <string name="Address">Address: House # 474, Chowdhury Tower, Laxmipur, Rajshahi.</string>
+    <string name="Room_no">Room No: 305</string>
+    <string name="help">Tap to see exact location</string>
+    <string name="make_appointment">Make an appointment</string>
+    <string name="Link">Welcome for visiting this page\n\nPlease click the following link\n\n<a href="https://en.wikipedia.org/wiki/Devi_Shetty">Dr. Devi Prasad Shetty</a></string>
+    <string name="password_condition">Password must be 8-20 characters long</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="Tap">Tap Here</string>
+    <string name="Forgot_Email">Enter your Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="Forgot_password">Forgot Password?</string>
+    <string name="Shetty1">Dr. Devi Prasad Shetty is the Founder, Chairman and Senior Consultant Cardiac Surgeon at Narayana Health.
+
+Over the course of his distinguished career, Dr. Shetty and his team have performed over 1,20,000 heart surgeries, 40% of them are on children. He also had the privilege of being the personal Physician to Saint Teresa of Kolkata. In 2000, he started Narayana Health (then known as Narayana Hrudayalaya) in Bangalore. Since its inception, NH has now grown to be one of India’s largest healthcare groups providing world-class, affordable, safe and quality care for all.
+
+As an expert in the field of Cardiac Surgery,  Dr. Shetty is involved in projects that can reduce time, cost and improve clinical efficacy in healthcare delivery.\n\n<b>Work Experience</b>\n\n
+
+    1) Senior consultant cardiac surgeon – B M Birla Heart Research Centre, Kolkata, India 1989-1996.\n\n
+
+    2) Senior Consultant Cardiac Surgeon – Manipal Heart Foundation, Bangalore, India 1996-2001.\n\n
+
+        3) Founder, Chairman and Senior Consultant, Cardiac Surgery, Narayana Health, Bangalore, India – 2001 till date.\n\n<b>Education</b>\n\n
+
+    1) MBBS from Kasturba Medical College, Mangalore -1979.\n\n
+    2) MS (General Surgery) from Kasturba Medical College, Mangalore – 1982.\n\n
+    3) Fellow of Royal college of Surgeons, England (FRCS, England).\n\n
+    4) Trained as cardio thoracic surgeon under National Health Service UK at Brompton Hospital, West Midlands cardio thoracic rotation program, Guys Hospital London Between 1983-1989.\n\n
+    5) Professor of International Health – University of Minnesota Medical School, USA.\n\n
+        6) Professor, Rajeev Gandhi University of Health Sciences, Bangalore, India.\n\n<b>Area of Expertise</b>\n\n
+
+    1) Paediatric cardiac surgery, Valve Repairs in infants and children\n\n
+
+    2) Pulmonary Endarterectomy, Ross procedure\n\n
+
+    3) Redo Heart Surgery\n\n
+
+        4) Surgery for Aortic Aneurysms.\n\n<b>Awards and Recognition</b>\n\n
+
+    1) Lifetime Achievement – Clinical Care (Gold), 2018.\n\n
+
+    2) Lifetime Achievement – Public Leadership (Gold), 2018.\n\n
+
+    3) Dr. Ida S. Scudder Humanitarian Oration, 2015.\n\n
+
+    4) Doctor of Science from Indian Institute of Technology, Madras, 2014.\n\n
+
+    5) Nikkei Asia Prize in the category of Economic and Business Innovation 2014 in Tokyo.\n\n
+
+    6) FT Arcelor Mittal Boldness in Business Awards 20th March 2013.\n\n
+
+
+    </string>
+
+
+
+
+
+
+    <!--<string name="Google_Map">AIzaSyD5NkJVDkRTWdBUNXRneNOsE3ALIeQTaXA</string>-->
+</resources>
